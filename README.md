@@ -1,3 +1,5 @@
+[![MasterHead](https://i.postimg.cc/J00zwXfC/ezgif-com-crop-1.gif)](https://rishavchanda.io)
+
 Hello There!
 ===============================
 
