@@ -33,5 +33,5 @@ src="https://img.shields.io/github/followers/?logo=github&style=for-the-badge&co
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/aryamalshehri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://sa.linkedin.com/in/aryam-alshehri-53243223a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
