@@ -6,7 +6,7 @@ Hello There!
 Computer Scientist 🖥️
 ----------------------
 
-I'm Aryam Alshehri, a passionate developer with a motivated attitude and a variety of powerful skills.
+A passionate developer with a motivated attitude and a variety of powerful skills.
  <img align="right" alt="Coding" width="300" src="https://i.postimg.cc/Df1Q5LyW/sticker.webp">
 * ✉️  You can contact me at [ams.aryam@gmail.com](mailto:ams.aryam@gmail.com)
 * 🧠  I'm learning Javascript - HTML - CSS
